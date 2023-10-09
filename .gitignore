@@ -3,5 +3,4 @@ public
 dev-data
 .vscode
 config.env
-.gitignore
 .*
